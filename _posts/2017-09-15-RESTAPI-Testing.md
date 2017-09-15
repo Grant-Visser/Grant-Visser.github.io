@@ -2,7 +2,7 @@
 layout: post
 title: REST API Testing
 ---
-<span style="display:block; text-align:center;"><img src="{{ site.baseurl }}/images/REST.png" alt="Resting" style="height: 150px;"/></span>
+<span style="display:block; text-align:center;"><img src="{{ site.baseurl }}/images/REST.png" alt="Resting" style="height: 150px;"/><br />How I built a sample application to consume REST API's</span>
 
 <!-- <span style="height:150px;display:block;">![](..\images\REST.png)</span>  -->
 
