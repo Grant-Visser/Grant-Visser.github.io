@@ -2,7 +2,9 @@
 layout: post
 title: REST API Testing
 ---
-<img src="{{ site.baseurl }}/images/REST.png" alt="Resting" style="height: 150px"/>
+<span style="display:block; text-align:center;"><img src="{{ site.baseurl }}/images/REST.png" alt="Resting" style="height: 150px;"/></span>
+
+<!-- <span style="height:150px;display:block;">![](..\images\REST.png)</span>  -->
 
 I wrote my first REST API application in C# in Visual Studio 2017 using RestSharper in order to facilitate the process.
 

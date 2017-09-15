@@ -14,7 +14,7 @@ I'm a dog person. Which automatically makes my dog cooler than yours.
 
 I'm also a car person, but I drive a Honda. So. There's that.
 
-<img src="{{ site.baseurl }}/images/Honda.jpg" alt="It's a fast Honda, Bro. V-Tec Yo." style="width: 400px;"/>
+<span style="display:block; text-align:center;"><img src="{{ site.baseurl }}/images/Honda.jpg" alt="It's a fast Honda, Bro. V-Tec Yo." style="height: 400px;"/></span>
 
 ### More Information
 
